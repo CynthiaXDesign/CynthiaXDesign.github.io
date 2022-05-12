@@ -164,10 +164,10 @@ fill(255,210,34,star4);
   // cynthia.position(0, 120);
   
     // Text
-  let s = 'Try moving your cursor here!';
+  let s = 'Move your cursor here!  鼠标在此移动看看！';
 fill(50,50);
-  textSize(20);
-text(s, 60, 370, 450, 480);
+  textSize(18);
+text(s, 10, 370, 450, 480);
   
   
   
